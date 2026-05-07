@@ -1,0 +1,49 @@
+name: Update VPN Clients JSON
+
+on:
+  schedule:
+    # هر ساعت یک‌بار (هر رأس ساعت)
+    - cron: '0 * * * *'
+  workflow_dispatch:   # برای اجرای دستی
+
+# اجازه نوشتن روی محتویات مخزن (برای push کردن JSON جدید)
+permissions:
+  contents: write
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # برای push کردن نیاز به token کامل داریم
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run collector script
+        env:
+          # توکن مخفی خودت رو اینجا می‌خونه (اگه ست کرده باشی)
+          GITHUB_TOKEN: ${{ secrets.VPN_GITHUB_TOKEN }}
+        run: python generate_vpn_list.py
+
+      - name: Commit and push if changes exist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet vpn_clients_data.json; then
+            echo "هیچ تغییری در فایل JSON دیده نشد."
+          else
+            git add vpn_clients_data.json
+            git commit -m "🔄 بروزرسانی خودکار لیست کلاینت‌های VPN - $(date +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
