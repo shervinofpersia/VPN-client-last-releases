@@ -1,0 +1,43 @@
+name: Update ☬SHΞN™ VPN Clients JSON
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run collector
+        env:
+          SHEN_GITHUB_TOKEN: ${{ secrets.SHEN_GITHUB_TOKEN }}
+        run: python generate_shen_list.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "SHΞN™ Bot"
+          git config user.email "shen@exclusive.dev"
+          git add "☬SHΞN™.json"
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "☬Exclusive SHΞN™ made - $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
