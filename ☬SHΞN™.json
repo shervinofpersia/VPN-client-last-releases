@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T13:54:25Z",
+  "generated_at": "2026-05-14T19:39:45Z",
   "total_clients": 21,
   "successful": 20,
   "failed": 1,
@@ -23,70 +23,70 @@
             "size": 28112899,
             "size_formatted": "26.8 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7-fdroid_arm64-v8a.apk",
-            "downloads": 53732
+            "downloads": 60800
           },
           {
             "filename": "v2rayNG_2.1.7-fdroid_armeabi-v7a.apk",
             "size": 28460525,
             "size_formatted": "27.1 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7-fdroid_armeabi-v7a.apk",
-            "downloads": 4570
+            "downloads": 5164
           },
           {
             "filename": "v2rayNG_2.1.7-fdroid_universal.apk",
             "size": 64890663,
             "size_formatted": "61.9 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7-fdroid_universal.apk",
-            "downloads": 15174
+            "downloads": 17266
           },
           {
             "filename": "v2rayNG_2.1.7-fdroid_x86.apk",
             "size": 29454657,
             "size_formatted": "28.1 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7-fdroid_x86.apk",
-            "downloads": 1126
+            "downloads": 1215
           },
           {
             "filename": "v2rayNG_2.1.7-fdroid_x86_64.apk",
             "size": 29006632,
             "size_formatted": "27.7 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7-fdroid_x86_64.apk",
-            "downloads": 1085
+            "downloads": 1151
           },
           {
             "filename": "v2rayNG_2.1.7_arm64-v8a.apk",
             "size": 28112411,
             "size_formatted": "26.8 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7_arm64-v8a.apk",
-            "downloads": 59348
+            "downloads": 65133
           },
           {
             "filename": "v2rayNG_2.1.7_armeabi-v7a.apk",
             "size": 28460037,
             "size_formatted": "27.1 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7_armeabi-v7a.apk",
-            "downloads": 3343
+            "downloads": 3538
           },
           {
             "filename": "v2rayNG_2.1.7_universal.apk",
             "size": 64890179,
             "size_formatted": "61.9 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7_universal.apk",
-            "downloads": 25657
+            "downloads": 29441
           },
           {
             "filename": "v2rayNG_2.1.7_x86.apk",
             "size": 29454169,
             "size_formatted": "28.1 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7_x86.apk",
-            "downloads": 1562
+            "downloads": 1693
           },
           {
             "filename": "v2rayNG_2.1.7_x86_64.apk",
             "size": 29006144,
             "size_formatted": "27.7 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7_x86_64.apk",
-            "downloads": 2921
+            "downloads": 3727
           }
         ]
       }
@@ -110,56 +110,56 @@
             "size": 125382603,
             "size_formatted": "119.6 MB",
             "download_url": "https://github.com/2dust/v2rayN/releases/download/7.21.3/v2rayN-linux-64.zip",
-            "downloads": 17650
+            "downloads": 20189
           },
           {
             "filename": "v2rayN-linux-arm64.zip",
             "size": 118471974,
             "size_formatted": "113.0 MB",
             "download_url": "https://github.com/2dust/v2rayN/releases/download/7.21.3/v2rayN-linux-arm64.zip",
-            "downloads": 2018
+            "downloads": 2112
           },
           {
             "filename": "v2rayN-macos-64.zip",
             "size": 125110519,
             "size_formatted": "119.3 MB",
             "download_url": "https://github.com/2dust/v2rayN/releases/download/7.21.3/v2rayN-macos-64.zip",
-            "downloads": 1577
+            "downloads": 1664
           },
           {
             "filename": "v2rayN-macos-arm64.zip",
             "size": 119280877,
             "size_formatted": "113.8 MB",
             "download_url": "https://github.com/2dust/v2rayN/releases/download/7.21.3/v2rayN-macos-arm64.zip",
-            "downloads": 2618
+            "downloads": 2775
           },
           {
             "filename": "v2rayN-windows-64-desktop.zip",
             "size": 123881291,
             "size_formatted": "118.1 MB",
             "download_url": "https://github.com/2dust/v2rayN/releases/download/7.21.3/v2rayN-windows-64-desktop.zip",
-            "downloads": 67992
+            "downloads": 82762
           },
           {
             "filename": "v2rayN-windows-64.zip",
             "size": 157991785,
             "size_formatted": "150.7 MB",
             "download_url": "https://github.com/2dust/v2rayN/releases/download/7.21.3/v2rayN-windows-64.zip",
-            "downloads": 137175
+            "downloads": 162122
           },
           {
             "filename": "v2rayN-windows-arm64-desktop.zip",
             "size": 116162695,
             "size_formatted": "110.8 MB",
             "download_url": "https://github.com/2dust/v2rayN/releases/download/7.21.3/v2rayN-windows-arm64-desktop.zip",
-            "downloads": 7904
+            "downloads": 9330
           },
           {
             "filename": "v2rayN-windows-arm64.zip",
             "size": 147246480,
             "size_formatted": "140.4 MB",
             "download_url": "https://github.com/2dust/v2rayN/releases/download/7.21.3/v2rayN-windows-arm64.zip",
-            "downloads": 5421
+            "downloads": 5764
           }
         ]
       }
@@ -183,84 +183,84 @@
             "size": 119028082,
             "size_formatted": "113.5 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm64.apk",
-            "downloads": 111442
+            "downloads": 112008
           },
           {
             "filename": "Hiddify-Android-arm7.apk",
             "size": 107000812,
             "size_formatted": "102.0 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm7.apk",
-            "downloads": 36292
+            "downloads": 37705
           },
           {
             "filename": "Hiddify-Android-universal.apk",
             "size": 339558475,
             "size_formatted": "323.8 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk",
-            "downloads": 201821
+            "downloads": 202652
           },
           {
             "filename": "Hiddify-Android-x86_64.apk",
             "size": 128596321,
             "size_formatted": "122.6 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-x86_64.apk",
-            "downloads": 41944
+            "downloads": 42125
           },
           {
             "filename": "Hiddify-Debian-x64.deb",
             "size": 42466870,
             "size_formatted": "40.5 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Debian-x64.deb",
-            "downloads": 40862
+            "downloads": 41025
           },
           {
             "filename": "Hiddify-Linux-x64-AppImage.AppImage",
             "size": 55220728,
             "size_formatted": "52.7 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.AppImage",
-            "downloads": 22418
+            "downloads": 22478
           },
           {
             "filename": "Hiddify-Linux-x64-AppImage.tar.gz",
             "size": 54685914,
             "size_formatted": "52.2 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.tar.gz",
-            "downloads": 7240
+            "downloads": 7266
           },
           {
             "filename": "Hiddify-MacOS-Installer.pkg",
             "size": 83767757,
             "size_formatted": "79.9 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS-Installer.pkg",
-            "downloads": 30764
+            "downloads": 30867
           },
           {
             "filename": "Hiddify-MacOS.dmg",
             "size": 83485931,
             "size_formatted": "79.6 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS.dmg",
-            "downloads": 105117
+            "downloads": 105514
           },
           {
             "filename": "Hiddify-Windows-Portable-x64.zip",
             "size": 117708800,
             "size_formatted": "112.3 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Portable-x64.zip",
-            "downloads": 127230
+            "downloads": 127704
           },
           {
             "filename": "Hiddify-Windows-Setup-x64.exe",
             "size": 36486310,
             "size_formatted": "34.8 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe",
-            "downloads": 428213
+            "downloads": 430384
           },
           {
             "filename": "Hiddify-Windows-x64.msix",
             "size": 49848179,
             "size_formatted": "47.5 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-x64.msix",
-            "downloads": 7550
+            "downloads": 7578
           }
         ]
       }
@@ -284,14 +284,14 @@
             "size": 73342686,
             "size_formatted": "69.9 MB",
             "download_url": "https://github.com/hiddify/HiddifyNG/releases/download/v6.0.4/HiddifyNG.apk",
-            "downloads": 381744
+            "downloads": 381767
           },
           {
             "filename": "HiddifyNG_arm64-v8a.apk",
             "size": 33342386,
             "size_formatted": "31.8 MB",
             "download_url": "https://github.com/hiddify/HiddifyNG/releases/download/v6.0.4/HiddifyNG_arm64-v8a.apk",
-            "downloads": 18003
+            "downloads": 18005
           },
           {
             "filename": "HiddifyNG_armeabi-v7a.apk",
@@ -305,14 +305,14 @@
             "size": 35027129,
             "size_formatted": "33.4 MB",
             "download_url": "https://github.com/hiddify/HiddifyNG/releases/download/v6.0.4/HiddifyNG_x86.apk",
-            "downloads": 1336
+            "downloads": 1337
           },
           {
             "filename": "HiddifyNG_x86_64.apk",
             "size": 34543167,
             "size_formatted": "32.9 MB",
             "download_url": "https://github.com/hiddify/HiddifyNG/releases/download/v6.0.4/HiddifyNG_x86_64.apk",
-            "downloads": 2161
+            "downloads": 2162
           }
         ]
       }
@@ -336,35 +336,35 @@
             "size": 54244291,
             "size_formatted": "51.7 MB",
             "download_url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v15-%281405-1-22%29/MahsaNG_15_arm64-v8a.apk",
-            "downloads": 101422
+            "downloads": 101744
           },
           {
             "filename": "MahsaNG_15_armeabi-v7a.apk",
             "size": 54862916,
             "size_formatted": "52.3 MB",
             "download_url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v15-%281405-1-22%29/MahsaNG_15_armeabi-v7a.apk",
-            "downloads": 20585
+            "downloads": 20653
           },
           {
             "filename": "MahsaNG_15_universal.apk",
             "size": 147764634,
             "size_formatted": "140.9 MB",
             "download_url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v15-%281405-1-22%29/MahsaNG_15_universal.apk",
-            "downloads": 34542
+            "downloads": 34614
           },
           {
             "filename": "MahsaNG_15_x86.apk",
             "size": 57815580,
             "size_formatted": "55.1 MB",
             "download_url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v15-%281405-1-22%29/MahsaNG_15_x86.apk",
-            "downloads": 7291
+            "downloads": 7316
           },
           {
             "filename": "MahsaNG_15_x86_64.apk",
             "size": 56830273,
             "size_formatted": "54.2 MB",
             "download_url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v15-%281405-1-22%29/MahsaNG_15_x86_64.apk",
-            "downloads": 10360
+            "downloads": 10404
           }
         ]
       }
@@ -388,28 +388,28 @@
             "size": 15252519,
             "size_formatted": "14.5 MB",
             "download_url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk",
-            "downloads": 258598
+            "downloads": 259628
           },
           {
             "filename": "NekoBox-1.4.2-armeabi-v7a.apk",
             "size": 15509280,
             "size_formatted": "14.8 MB",
             "download_url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-armeabi-v7a.apk",
-            "downloads": 28730
+            "downloads": 28833
           },
           {
             "filename": "NekoBox-1.4.2-x86.apk",
             "size": 16222828,
             "size_formatted": "15.5 MB",
             "download_url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-x86.apk",
-            "downloads": 16836
+            "downloads": 16890
           },
           {
             "filename": "NekoBox-1.4.2-x86_64.apk",
             "size": 15934699,
             "size_formatted": "15.2 MB",
             "download_url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-x86_64.apk",
-            "downloads": 21577
+            "downloads": 21671
           }
         ]
       }
@@ -433,14 +433,14 @@
             "size": 16029109,
             "size_formatted": "15.3 MB",
             "download_url": "https://github.com/MatsuriDayo/Matsuri/releases/download/0.6.5/Matsuri-0.6.5-arm64-v8a.apk",
-            "downloads": 78511
+            "downloads": 78515
           },
           {
             "filename": "Matsuri-0.6.5-armeabi-v7a.apk",
             "size": 16309823,
             "size_formatted": "15.6 MB",
             "download_url": "https://github.com/MatsuriDayo/Matsuri/releases/download/0.6.5/Matsuri-0.6.5-armeabi-v7a.apk",
-            "downloads": 26726
+            "downloads": 26727
           },
           {
             "filename": "Matsuri-0.6.5-x86.apk",
@@ -454,7 +454,7 @@
             "size": 16580581,
             "size_formatted": "15.8 MB",
             "download_url": "https://github.com/MatsuriDayo/Matsuri/releases/download/0.6.5/Matsuri-0.6.5-x86_64.apk",
-            "downloads": 10254
+            "downloads": 10255
           }
         ]
       }
@@ -478,14 +478,14 @@
             "size": 16124565,
             "size_formatted": "15.4 MB",
             "download_url": "https://github.com/SagerNet/SagerNet/releases/download/0.8.1-rc03/SN-0.8.1-rc03-arm64-v8a.apk",
-            "downloads": 124949
+            "downloads": 124956
           },
           {
             "filename": "SN-0.8.1-rc03-armeabi-v7a.apk",
             "size": 16387702,
             "size_formatted": "15.6 MB",
             "download_url": "https://github.com/SagerNet/SagerNet/releases/download/0.8.1-rc03/SN-0.8.1-rc03-armeabi-v7a.apk",
-            "downloads": 24485
+            "downloads": 24487
           },
           {
             "filename": "SN-0.8.1-rc03-x86.apk",
@@ -499,7 +499,7 @@
             "size": 16717632,
             "size_formatted": "15.9 MB",
             "download_url": "https://github.com/SagerNet/SagerNet/releases/download/0.8.1-rc03/SN-0.8.1-rc03-x86_64.apk",
-            "downloads": 9426
+            "downloads": 9427
           }
         ]
       }
@@ -523,35 +523,35 @@
             "size": 30954199,
             "size_formatted": "29.5 MB",
             "download_url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.27/cmfa-2.11.27-meta-arm64-v8a-release.apk",
-            "downloads": 162276
+            "downloads": 163733
           },
           {
             "filename": "cmfa-2.11.27-meta-armeabi-v7a-release.apk",
             "size": 31037000,
             "size_formatted": "29.6 MB",
             "download_url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.27/cmfa-2.11.27-meta-armeabi-v7a-release.apk",
-            "downloads": 15507
+            "downloads": 15671
           },
           {
             "filename": "cmfa-2.11.27-meta-universal-release.apk",
             "size": 78893985,
             "size_formatted": "75.2 MB",
             "download_url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.27/cmfa-2.11.27-meta-universal-release.apk",
-            "downloads": 56322
+            "downloads": 56948
           },
           {
             "filename": "cmfa-2.11.27-meta-x86-release.apk",
             "size": 32740817,
             "size_formatted": "31.2 MB",
             "download_url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.27/cmfa-2.11.27-meta-x86-release.apk",
-            "downloads": 6790
+            "downloads": 6865
           },
           {
             "filename": "cmfa-2.11.27-meta-x86_64-release.apk",
             "size": 32427980,
             "size_formatted": "30.9 MB",
             "download_url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.27/cmfa-2.11.27-meta-x86_64-release.apk",
-            "downloads": 7644
+            "downloads": 7711
           }
         ]
       }
@@ -575,98 +575,98 @@
             "size": 28190211,
             "size_formatted": "26.9 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFA-1.13.11-arm64-v8a.apk",
-            "downloads": 15565
+            "downloads": 15656
           },
           {
             "filename": "SFA-1.13.11-armeabi-v7a.apk",
             "size": 27919469,
             "size_formatted": "26.6 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFA-1.13.11-armeabi-v7a.apk",
-            "downloads": 1679
+            "downloads": 1690
           },
           {
             "filename": "SFA-1.13.11-legacy-android-5-arm64-v8a.apk",
             "size": 23335991,
             "size_formatted": "22.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFA-1.13.11-legacy-android-5-arm64-v8a.apk",
-            "downloads": 1346
+            "downloads": 1358
           },
           {
             "filename": "SFA-1.13.11-legacy-android-5-armeabi-v7a.apk",
             "size": 23683719,
             "size_formatted": "22.6 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFA-1.13.11-legacy-android-5-armeabi-v7a.apk",
-            "downloads": 530
+            "downloads": 535
           },
           {
             "filename": "SFA-1.13.11-legacy-android-5-universal.apk",
             "size": 77547414,
             "size_formatted": "74.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFA-1.13.11-legacy-android-5-universal.apk",
-            "downloads": 819
+            "downloads": 835
           },
           {
             "filename": "SFA-1.13.11-legacy-android-5-x86.apk",
             "size": 25185247,
             "size_formatted": "24.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFA-1.13.11-legacy-android-5-x86.apk",
-            "downloads": 581
+            "downloads": 594
           },
           {
             "filename": "SFA-1.13.11-legacy-android-5-x86_64.apk",
             "size": 24602846,
             "size_formatted": "23.5 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFA-1.13.11-legacy-android-5-x86_64.apk",
-            "downloads": 493
+            "downloads": 500
           },
           {
             "filename": "SFA-1.13.11-universal.apk",
             "size": 96455952,
             "size_formatted": "92.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFA-1.13.11-universal.apk",
-            "downloads": 3071
+            "downloads": 3098
           },
           {
             "filename": "SFA-1.13.11-x86.apk",
             "size": 30444487,
             "size_formatted": "29.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFA-1.13.11-x86.apk",
-            "downloads": 494
+            "downloads": 502
           },
           {
             "filename": "SFA-1.13.11-x86_64.apk",
             "size": 29597283,
             "size_formatted": "28.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFA-1.13.11-x86_64.apk",
-            "downloads": 790
+            "downloads": 796
           },
           {
             "filename": "SFA-version-metadata.json",
             "size": 55,
             "size_formatted": "55 B",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFA-version-metadata.json",
-            "downloads": 57392
+            "downloads": 57988
           },
           {
             "filename": "SFM-1.13.11-Apple.pkg",
             "size": 31666325,
             "size_formatted": "30.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFM-1.13.11-Apple.pkg",
-            "downloads": 1338
+            "downloads": 1356
           },
           {
             "filename": "SFM-1.13.11-Intel.pkg",
             "size": 37794558,
             "size_formatted": "36.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFM-1.13.11-Intel.pkg",
-            "downloads": 497
+            "downloads": 500
           },
           {
             "filename": "SFM-1.13.11-Universal.pkg",
             "size": 69040973,
             "size_formatted": "65.8 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/SFM-1.13.11-Universal.pkg",
-            "downloads": 3146
+            "downloads": 3168
           },
           {
             "filename": "SFM-1.13.11.dSYMs.zip",
@@ -680,28 +680,28 @@
             "size": 19983665,
             "size_formatted": "19.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-android-386.tar.gz",
-            "downloads": 517
+            "downloads": 522
           },
           {
             "filename": "sing-box-1.13.11-android-amd64.tar.gz",
             "size": 19321957,
             "size_formatted": "18.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-android-amd64.tar.gz",
-            "downloads": 465
+            "downloads": 474
           },
           {
             "filename": "sing-box-1.13.11-android-arm.tar.gz",
             "size": 18329506,
             "size_formatted": "17.5 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-android-arm.tar.gz",
-            "downloads": 391
+            "downloads": 399
           },
           {
             "filename": "sing-box-1.13.11-android-arm64.tar.gz",
             "size": 18024210,
             "size_formatted": "17.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-android-arm64.tar.gz",
-            "downloads": 5733
+            "downloads": 5781
           },
           {
             "filename": "sing-box-1.13.11-darwin-amd64-legacy-macos-10.13.tar.gz",
@@ -715,21 +715,21 @@
             "size": 20251252,
             "size_formatted": "19.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-darwin-amd64.tar.gz",
-            "downloads": 2999
+            "downloads": 3021
           },
           {
             "filename": "sing-box-1.13.11-darwin-arm64.tar.gz",
             "size": 18595477,
             "size_formatted": "17.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-darwin-arm64.tar.gz",
-            "downloads": 6292
+            "downloads": 6361
           },
           {
             "filename": "sing-box-1.13.11-linux-386-glibc.tar.gz",
             "size": 23679148,
             "size_formatted": "22.6 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-386-glibc.tar.gz",
-            "downloads": 339
+            "downloads": 357
           },
           {
             "filename": "sing-box-1.13.11-linux-386-musl.tar.gz",
@@ -750,161 +750,161 @@
             "size": 18402769,
             "size_formatted": "17.6 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-386.tar.gz",
-            "downloads": 326
+            "downloads": 336
           },
           {
             "filename": "sing-box-1.13.11-linux-amd64-glibc.tar.gz",
             "size": 24548115,
             "size_formatted": "23.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-amd64-glibc.tar.gz",
-            "downloads": 10089
+            "downloads": 10219
           },
           {
             "filename": "sing-box-1.13.11-linux-amd64-musl.tar.gz",
             "size": 24575679,
             "size_formatted": "23.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-amd64-musl.tar.gz",
-            "downloads": 11263
+            "downloads": 11379
           },
           {
             "filename": "sing-box-1.13.11-linux-amd64.tar.gz",
             "size": 23773576,
             "size_formatted": "22.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-amd64.tar.gz",
-            "downloads": 108709
+            "downloads": 109655
           },
           {
             "filename": "sing-box-1.13.11-linux-arm64-glibc.tar.gz",
             "size": 22533247,
             "size_formatted": "21.5 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-arm64-glibc.tar.gz",
-            "downloads": 7409
+            "downloads": 7491
           },
           {
             "filename": "sing-box-1.13.11-linux-arm64-musl.tar.gz",
             "size": 22568086,
             "size_formatted": "21.5 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-arm64-musl.tar.gz",
-            "downloads": 9239
+            "downloads": 9339
           },
           {
             "filename": "sing-box-1.13.11-linux-arm64.tar.gz",
             "size": 21978208,
             "size_formatted": "21.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-arm64.tar.gz",
-            "downloads": 4672
+            "downloads": 4757
           },
           {
             "filename": "sing-box-1.13.11-linux-armv5.tar.gz",
             "size": 18114064,
             "size_formatted": "17.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-armv5.tar.gz",
-            "downloads": 395
+            "downloads": 396
           },
           {
             "filename": "sing-box-1.13.11-linux-armv6.tar.gz",
             "size": 18099736,
             "size_formatted": "17.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-armv6.tar.gz",
-            "downloads": 282
+            "downloads": 292
           },
           {
             "filename": "sing-box-1.13.11-linux-armv7-glibc.tar.gz",
             "size": 22554317,
             "size_formatted": "21.5 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-armv7-glibc.tar.gz",
-            "downloads": 1815
+            "downloads": 1838
           },
           {
             "filename": "sing-box-1.13.11-linux-armv7-musl.tar.gz",
             "size": 22579935,
             "size_formatted": "21.5 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-armv7-musl.tar.gz",
-            "downloads": 811
+            "downloads": 821
           },
           {
             "filename": "sing-box-1.13.11-linux-armv7.tar.gz",
             "size": 18081959,
             "size_formatted": "17.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-armv7.tar.gz",
-            "downloads": 564
+            "downloads": 575
           },
           {
             "filename": "sing-box-1.13.11-linux-loong64-glibc.tar.gz",
             "size": 23213645,
             "size_formatted": "22.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-loong64-glibc.tar.gz",
-            "downloads": 261
+            "downloads": 270
           },
           {
             "filename": "sing-box-1.13.11-linux-loong64-musl.tar.gz",
             "size": 23245350,
             "size_formatted": "22.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-loong64-musl.tar.gz",
-            "downloads": 308
+            "downloads": 314
           },
           {
             "filename": "sing-box-1.13.11-linux-loong64.tar.gz",
             "size": 18238384,
             "size_formatted": "17.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-loong64.tar.gz",
-            "downloads": 346
+            "downloads": 350
           },
           {
             "filename": "sing-box-1.13.11-linux-mips-softfloat.tar.gz",
             "size": 17464422,
             "size_formatted": "16.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-mips-softfloat.tar.gz",
-            "downloads": 299
+            "downloads": 301
           },
           {
             "filename": "sing-box-1.13.11-linux-mips64-softfloat.tar.gz",
             "size": 17094223,
             "size_formatted": "16.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-mips64-softfloat.tar.gz",
-            "downloads": 269
+            "downloads": 271
           },
           {
             "filename": "sing-box-1.13.11-linux-mips64le-glibc.tar.gz",
             "size": 22179031,
             "size_formatted": "21.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-mips64le-glibc.tar.gz",
-            "downloads": 327
+            "downloads": 338
           },
           {
             "filename": "sing-box-1.13.11-linux-mips64le-softfloat.tar.gz",
             "size": 16680766,
             "size_formatted": "15.9 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-mips64le-softfloat.tar.gz",
-            "downloads": 303
+            "downloads": 306
           },
           {
             "filename": "sing-box-1.13.11-linux-mips64le.tar.gz",
             "size": 16678752,
             "size_formatted": "15.9 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-mips64le.tar.gz",
-            "downloads": 308
+            "downloads": 318
           },
           {
             "filename": "sing-box-1.13.11-linux-mipsle-glibc.tar.gz",
             "size": 23022567,
             "size_formatted": "22.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-mipsle-glibc.tar.gz",
-            "downloads": 364
+            "downloads": 371
           },
           {
             "filename": "sing-box-1.13.11-linux-mipsle-softfloat-musl.tar.gz",
             "size": 23041682,
             "size_formatted": "22.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-mipsle-softfloat-musl.tar.gz",
-            "downloads": 846
+            "downloads": 864
           },
           {
             "filename": "sing-box-1.13.11-linux-mipsle-softfloat.tar.gz",
             "size": 17108837,
             "size_formatted": "16.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-mipsle-softfloat.tar.gz",
-            "downloads": 416
+            "downloads": 420
           },
           {
             "filename": "sing-box-1.13.11-linux-mipsle.tar.gz",
@@ -918,21 +918,21 @@
             "size": 17695824,
             "size_formatted": "16.9 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-ppc64le.tar.gz",
-            "downloads": 321
+            "downloads": 333
           },
           {
             "filename": "sing-box-1.13.11-linux-riscv64-glibc.tar.gz",
             "size": 23198361,
             "size_formatted": "22.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-riscv64-glibc.tar.gz",
-            "downloads": 228
+            "downloads": 235
           },
           {
             "filename": "sing-box-1.13.11-linux-riscv64-musl.tar.gz",
             "size": 23229601,
             "size_formatted": "22.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-linux-riscv64-musl.tar.gz",
-            "downloads": 230
+            "downloads": 232
           },
           {
             "filename": "sing-box-1.13.11-linux-riscv64.tar.gz",
@@ -953,147 +953,147 @@
             "size": 15336392,
             "size_formatted": "14.6 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-windows-386-legacy-windows-7.zip",
-            "downloads": 661
+            "downloads": 677
           },
           {
             "filename": "sing-box-1.13.11-windows-386.zip",
             "size": 15302475,
             "size_formatted": "14.6 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-windows-386.zip",
-            "downloads": 2399
+            "downloads": 2437
           },
           {
             "filename": "sing-box-1.13.11-windows-amd64-legacy-windows-7.zip",
             "size": 15895507,
             "size_formatted": "15.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-windows-amd64-legacy-windows-7.zip",
-            "downloads": 1148
+            "downloads": 1153
           },
           {
             "filename": "sing-box-1.13.11-windows-amd64.zip",
             "size": 20400572,
             "size_formatted": "19.5 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-windows-amd64.zip",
-            "downloads": 112215
+            "downloads": 113083
           },
           {
             "filename": "sing-box-1.13.11-windows-arm64.zip",
             "size": 18244461,
             "size_formatted": "17.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box-1.13.11-windows-arm64.zip",
-            "downloads": 1641
+            "downloads": 1658
           },
           {
             "filename": "sing-box_1.13.11_linux_aarch64.apk",
             "size": 22426894,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_aarch64.apk",
-            "downloads": 302
+            "downloads": 307
           },
           {
             "filename": "sing-box_1.13.11_linux_aarch64.pkg.tar.zst",
             "size": 21750258,
             "size_formatted": "20.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_aarch64.pkg.tar.zst",
-            "downloads": 269
+            "downloads": 273
           },
           {
             "filename": "sing-box_1.13.11_linux_aarch64.rpm",
             "size": 22433931,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_aarch64.rpm",
-            "downloads": 267
+            "downloads": 269
           },
           {
             "filename": "sing-box_1.13.11_linux_amd64.deb",
             "size": 24420582,
             "size_formatted": "23.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_amd64.deb",
-            "downloads": 37872
+            "downloads": 38297
           },
           {
             "filename": "sing-box_1.13.11_linux_arm64.deb",
             "size": 22462292,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_arm64.deb",
-            "downloads": 1141
+            "downloads": 1160
           },
           {
             "filename": "sing-box_1.13.11_linux_armel.deb",
             "size": 17977194,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_armel.deb",
-            "downloads": 290
+            "downloads": 293
           },
           {
             "filename": "sing-box_1.13.11_linux_armhf.deb",
             "size": 22452524,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_armhf.deb",
-            "downloads": 285
+            "downloads": 290
           },
           {
             "filename": "sing-box_1.13.11_linux_armv6hl.rpm",
             "size": 17932471,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_armv6hl.rpm",
-            "downloads": 231
+            "downloads": 243
           },
           {
             "filename": "sing-box_1.13.11_linux_armv7.apk",
             "size": 22399787,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_armv7.apk",
-            "downloads": 265
+            "downloads": 271
           },
           {
             "filename": "sing-box_1.13.11_linux_armv7hl.pkg.tar.zst",
             "size": 21813654,
             "size_formatted": "20.8 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_armv7hl.pkg.tar.zst",
-            "downloads": 229
+            "downloads": 236
           },
           {
             "filename": "sing-box_1.13.11_linux_armv7hl.rpm",
             "size": 22407735,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_armv7hl.rpm",
-            "downloads": 261
+            "downloads": 266
           },
           {
             "filename": "sing-box_1.13.11_linux_i386.deb",
             "size": 23541884,
             "size_formatted": "22.5 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_i386.deb",
-            "downloads": 290
+            "downloads": 296
           },
           {
             "filename": "sing-box_1.13.11_linux_i386.rpm",
             "size": 23488981,
             "size_formatted": "22.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_i386.rpm",
-            "downloads": 221
+            "downloads": 232
           },
           {
             "filename": "sing-box_1.13.11_linux_loongarch64.apk",
             "size": 23074236,
             "size_formatted": "22.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_loongarch64.apk",
-            "downloads": 242
+            "downloads": 250
           },
           {
             "filename": "sing-box_1.13.11_linux_loongarch64.deb",
             "size": 23117770,
             "size_formatted": "22.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_loongarch64.deb",
-            "downloads": 355
+            "downloads": 360
           },
           {
             "filename": "sing-box_1.13.11_linux_loongarch64.rpm",
             "size": 23081036,
             "size_formatted": "22.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_loongarch64.rpm",
-            "downloads": 226
+            "downloads": 229
           },
           {
             "filename": "sing-box_1.13.11_linux_mips64el.deb",
@@ -1107,133 +1107,133 @@
             "size": 21924145,
             "size_formatted": "20.9 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_mips64el.rpm",
-            "downloads": 259
+            "downloads": 265
           },
           {
             "filename": "sing-box_1.13.11_linux_mipsel.deb",
             "size": 22891516,
             "size_formatted": "21.8 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_mipsel.deb",
-            "downloads": 369
+            "downloads": 375
           },
           {
             "filename": "sing-box_1.13.11_linux_mipsel.rpm",
             "size": 22794449,
             "size_formatted": "21.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_mipsel.rpm",
-            "downloads": 294
+            "downloads": 297
           },
           {
             "filename": "sing-box_1.13.11_linux_ppc64el.deb",
             "size": 17594644,
             "size_formatted": "16.8 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_ppc64el.deb",
-            "downloads": 296
+            "downloads": 307
           },
           {
             "filename": "sing-box_1.13.11_linux_ppc64le.rpm",
             "size": 17535872,
             "size_formatted": "16.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_ppc64le.rpm",
-            "downloads": 314
+            "downloads": 323
           },
           {
             "filename": "sing-box_1.13.11_linux_riscv64.apk",
             "size": 23070519,
             "size_formatted": "22.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_riscv64.apk",
-            "downloads": 255
+            "downloads": 263
           },
           {
             "filename": "sing-box_1.13.11_linux_riscv64.deb",
             "size": 23097310,
             "size_formatted": "22.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_riscv64.deb",
-            "downloads": 270
+            "downloads": 282
           },
           {
             "filename": "sing-box_1.13.11_linux_riscv64.rpm",
             "size": 23075932,
             "size_formatted": "22.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_riscv64.rpm",
-            "downloads": 246
+            "downloads": 247
           },
           {
             "filename": "sing-box_1.13.11_linux_s390x.deb",
             "size": 18687864,
             "size_formatted": "17.8 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_s390x.deb",
-            "downloads": 237
+            "downloads": 239
           },
           {
             "filename": "sing-box_1.13.11_linux_s390x.rpm",
             "size": 18633490,
             "size_formatted": "17.8 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_s390x.rpm",
-            "downloads": 237
+            "downloads": 244
           },
           {
             "filename": "sing-box_1.13.11_linux_x86.apk",
             "size": 23481091,
             "size_formatted": "22.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_x86.apk",
-            "downloads": 263
+            "downloads": 265
           },
           {
             "filename": "sing-box_1.13.11_linux_x86_64.apk",
             "size": 24368610,
             "size_formatted": "23.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_x86_64.apk",
-            "downloads": 525
+            "downloads": 542
           },
           {
             "filename": "sing-box_1.13.11_linux_x86_64.pkg.tar.zst",
             "size": 23787374,
             "size_formatted": "22.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_x86_64.pkg.tar.zst",
-            "downloads": 443
+            "downloads": 449
           },
           {
             "filename": "sing-box_1.13.11_linux_x86_64.rpm",
             "size": 24374963,
             "size_formatted": "23.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_linux_x86_64.rpm",
-            "downloads": 1020
+            "downloads": 1029
           },
           {
             "filename": "sing-box_1.13.11_openwrt_aarch64_cortex-a53.apk",
             "size": 22426554,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_aarch64_cortex-a53.apk",
-            "downloads": 603
+            "downloads": 613
           },
           {
             "filename": "sing-box_1.13.11_openwrt_aarch64_cortex-a53.ipk",
             "size": 22390652,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_aarch64_cortex-a53.ipk",
-            "downloads": 787
+            "downloads": 791
           },
           {
             "filename": "sing-box_1.13.11_openwrt_aarch64_cortex-a72.apk",
             "size": 22426553,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_aarch64_cortex-a72.apk",
-            "downloads": 270
+            "downloads": 277
           },
           {
             "filename": "sing-box_1.13.11_openwrt_aarch64_cortex-a72.ipk",
             "size": 22390652,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_aarch64_cortex-a72.ipk",
-            "downloads": 291
+            "downloads": 298
           },
           {
             "filename": "sing-box_1.13.11_openwrt_aarch64_cortex-a76.apk",
             "size": 22426552,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_aarch64_cortex-a76.apk",
-            "downloads": 295
+            "downloads": 301
           },
           {
             "filename": "sing-box_1.13.11_openwrt_aarch64_cortex-a76.ipk",
@@ -1247,21 +1247,21 @@
             "size": 22426512,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_aarch64_generic.apk",
-            "downloads": 330
+            "downloads": 338
           },
           {
             "filename": "sing-box_1.13.11_openwrt_aarch64_generic.ipk",
             "size": 22390648,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_aarch64_generic.ipk",
-            "downloads": 426
+            "downloads": 432
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_arm1176jzf-s_vfp.apk",
             "size": 17927350,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_arm1176jzf-s_vfp.apk",
-            "downloads": 337
+            "downloads": 339
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_arm1176jzf-s_vfp.ipk",
@@ -1275,196 +1275,196 @@
             "size": 17937716,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_arm926ej-s.apk",
-            "downloads": 259
+            "downloads": 263
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_arm926ej-s.ipk",
             "size": 17947543,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_arm926ej-s.ipk",
-            "downloads": 277
+            "downloads": 289
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a15_neon-vfpv4.apk",
             "size": 22399513,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a15_neon-vfpv4.apk",
-            "downloads": 357
+            "downloads": 359
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a15_neon-vfpv4.ipk",
             "size": 22409676,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a15_neon-vfpv4.ipk",
-            "downloads": 206
+            "downloads": 215
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a5_vfpv4.apk",
             "size": 22399528,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a5_vfpv4.apk",
-            "downloads": 238
+            "downloads": 242
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a5_vfpv4.ipk",
             "size": 22409642,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a5_vfpv4.ipk",
-            "downloads": 215
+            "downloads": 227
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a7.apk",
             "size": 17937717,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a7.apk",
-            "downloads": 258
+            "downloads": 269
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a7.ipk",
             "size": 17947541,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a7.ipk",
-            "downloads": 416
+            "downloads": 421
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a7_neon-vfpv4.apk",
             "size": 22399526,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a7_neon-vfpv4.apk",
-            "downloads": 287
+            "downloads": 299
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a7_neon-vfpv4.ipk",
             "size": 22409654,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a7_neon-vfpv4.ipk",
-            "downloads": 269
+            "downloads": 286
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a7_vfpv4.apk",
             "size": 22399528,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a7_vfpv4.apk",
-            "downloads": 327
+            "downloads": 328
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a7_vfpv4.ipk",
             "size": 22409639,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a7_vfpv4.ipk",
-            "downloads": 360
+            "downloads": 365
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a8_vfpv3.apk",
             "size": 22399530,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a8_vfpv3.apk",
-            "downloads": 225
+            "downloads": 229
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a8_vfpv3.ipk",
             "size": 22409641,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a8_vfpv3.ipk",
-            "downloads": 236
+            "downloads": 239
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a9.apk",
             "size": 17937716,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a9.apk",
-            "downloads": 353
+            "downloads": 354
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a9.ipk",
             "size": 17947539,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a9.ipk",
-            "downloads": 447
+            "downloads": 455
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a9_neon.apk",
             "size": 22399527,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a9_neon.apk",
-            "downloads": 273
+            "downloads": 286
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a9_neon.ipk",
             "size": 22409653,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a9_neon.ipk",
-            "downloads": 232
+            "downloads": 236
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a9_vfpv3-d16.apk",
             "size": 22399523,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a9_vfpv3-d16.apk",
-            "downloads": 234
+            "downloads": 235
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_cortex-a9_vfpv3-d16.ipk",
             "size": 22409646,
             "size_formatted": "21.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_cortex-a9_vfpv3-d16.ipk",
-            "downloads": 313
+            "downloads": 314
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_fa526.apk",
             "size": 17937709,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_fa526.apk",
-            "downloads": 241
+            "downloads": 248
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_fa526.ipk",
             "size": 17947541,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_fa526.ipk",
-            "downloads": 228
+            "downloads": 234
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_xscale.apk",
             "size": 17937703,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_xscale.apk",
-            "downloads": 274
+            "downloads": 284
           },
           {
             "filename": "sing-box_1.13.11_openwrt_arm_xscale.ipk",
             "size": 17947545,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_arm_xscale.ipk",
-            "downloads": 192
+            "downloads": 193
           },
           {
             "filename": "sing-box_1.13.11_openwrt_i386_pentium-mmx.apk",
             "size": 18219808,
             "size_formatted": "17.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_i386_pentium-mmx.apk",
-            "downloads": 234
+            "downloads": 240
           },
           {
             "filename": "sing-box_1.13.11_openwrt_i386_pentium-mmx.ipk",
             "size": 18227783,
             "size_formatted": "17.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_i386_pentium-mmx.ipk",
-            "downloads": 233
+            "downloads": 239
           },
           {
             "filename": "sing-box_1.13.11_openwrt_i386_pentium4.apk",
             "size": 23480798,
             "size_formatted": "22.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_i386_pentium4.apk",
-            "downloads": 219
+            "downloads": 226
           },
           {
             "filename": "sing-box_1.13.11_openwrt_i386_pentium4.ipk",
             "size": 23488992,
             "size_formatted": "22.4 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_i386_pentium4.ipk",
-            "downloads": 209
+            "downloads": 210
           },
           {
             "filename": "sing-box_1.13.11_openwrt_loongarch64_generic.apk",
@@ -1478,28 +1478,28 @@
             "size": 23033559,
             "size_formatted": "22.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_loongarch64_generic.ipk",
-            "downloads": 254
+            "downloads": 255
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mips64el_mips64r2.apk",
             "size": 16477141,
             "size_formatted": "15.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mips64el_mips64r2.apk",
-            "downloads": 225
+            "downloads": 228
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mips64el_mips64r2.ipk",
             "size": 16469190,
             "size_formatted": "15.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mips64el_mips64r2.ipk",
-            "downloads": 365
+            "downloads": 371
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mips64_mips64r2.apk",
             "size": 16655228,
             "size_formatted": "15.9 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mips64_mips64r2.apk",
-            "downloads": 265
+            "downloads": 266
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mips64_mips64r2.ipk",
@@ -1513,56 +1513,56 @@
             "size": 16655224,
             "size_formatted": "15.9 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mips64_octeonplus.apk",
-            "downloads": 233
+            "downloads": 234
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mips64_octeonplus.ipk",
             "size": 16626460,
             "size_formatted": "15.9 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mips64_octeonplus.ipk",
-            "downloads": 251
+            "downloads": 258
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mipsel_24kc.apk",
             "size": 22786349,
             "size_formatted": "21.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mipsel_24kc.apk",
-            "downloads": 303
+            "downloads": 306
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mipsel_24kc.ipk",
             "size": 22826992,
             "size_formatted": "21.8 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mipsel_24kc.ipk",
-            "downloads": 303
+            "downloads": 305
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mipsel_24kc_24kf.apk",
             "size": 16909066,
             "size_formatted": "16.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mipsel_24kc_24kf.apk",
-            "downloads": 279
+            "downloads": 288
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mipsel_24kc_24kf.ipk",
             "size": 16928059,
             "size_formatted": "16.1 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mipsel_24kc_24kf.ipk",
-            "downloads": 218
+            "downloads": 222
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mipsel_74kc.apk",
             "size": 22786348,
             "size_formatted": "21.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mipsel_74kc.apk",
-            "downloads": 244
+            "downloads": 252
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mipsel_74kc.ipk",
             "size": 22827008,
             "size_formatted": "21.8 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mipsel_74kc.ipk",
-            "downloads": 236
+            "downloads": 237
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mipsel_mips32.apk",
@@ -1576,28 +1576,28 @@
             "size": 22826993,
             "size_formatted": "21.8 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mipsel_mips32.ipk",
-            "downloads": 260
+            "downloads": 264
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mips_24kc.apk",
             "size": 17071136,
             "size_formatted": "16.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mips_24kc.apk",
-            "downloads": 252
+            "downloads": 260
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mips_24kc.ipk",
             "size": 17074600,
             "size_formatted": "16.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mips_24kc.ipk",
-            "downloads": 248
+            "downloads": 259
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mips_4kec.apk",
             "size": 17071138,
             "size_formatted": "16.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mips_4kec.apk",
-            "downloads": 251
+            "downloads": 257
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mips_4kec.ipk",
@@ -1611,28 +1611,28 @@
             "size": 17071130,
             "size_formatted": "16.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mips_mips32.apk",
-            "downloads": 262
+            "downloads": 265
           },
           {
             "filename": "sing-box_1.13.11_openwrt_mips_mips32.ipk",
             "size": 17074604,
             "size_formatted": "16.3 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_mips_mips32.ipk",
-            "downloads": 288
+            "downloads": 291
           },
           {
             "filename": "sing-box_1.13.11_openwrt_riscv64_generic.apk",
             "size": 23070101,
             "size_formatted": "22.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_riscv64_generic.apk",
-            "downloads": 279
+            "downloads": 281
           },
           {
             "filename": "sing-box_1.13.11_openwrt_riscv64_generic.ipk",
             "size": 23027732,
             "size_formatted": "22.0 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_riscv64_generic.ipk",
-            "downloads": 239
+            "downloads": 242
           },
           {
             "filename": "sing-box_1.13.11_openwrt_x86_64.apk",
@@ -1646,7 +1646,7 @@
             "size": 24352842,
             "size_formatted": "23.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.11/sing-box_1.13.11_openwrt_x86_64.ipk",
-            "downloads": 734
+            "downloads": 743
           }
         ]
       }
@@ -1670,28 +1670,28 @@
             "size": 2569,
             "size_formatted": "2.5 KB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hashes.txt",
-            "downloads": 169
+            "downloads": 176
           },
           {
             "filename": "hysteria-android-386",
             "size": 20799056,
             "size_formatted": "19.8 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-android-386",
-            "downloads": 55
+            "downloads": 60
           },
           {
             "filename": "hysteria-android-amd64",
             "size": 21450312,
             "size_formatted": "20.5 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-android-amd64",
-            "downloads": 95
+            "downloads": 99
           },
           {
             "filename": "hysteria-android-arm64",
             "size": 19586768,
             "size_formatted": "18.7 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-android-arm64",
-            "downloads": 617
+            "downloads": 657
           },
           {
             "filename": "hysteria-android-armv7",
@@ -1705,7 +1705,7 @@
             "size": 21379440,
             "size_formatted": "20.4 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-darwin-amd64",
-            "downloads": 97
+            "downloads": 99
           },
           {
             "filename": "hysteria-darwin-amd64-avx",
@@ -1719,7 +1719,7 @@
             "size": 19729490,
             "size_formatted": "18.8 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-darwin-arm64",
-            "downloads": 147
+            "downloads": 156
           },
           {
             "filename": "hysteria-freebsd-386",
@@ -1761,42 +1761,42 @@
             "size": 19968162,
             "size_formatted": "19.0 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-linux-386",
-            "downloads": 50
+            "downloads": 52
           },
           {
             "filename": "hysteria-linux-amd64",
             "size": 21291170,
             "size_formatted": "20.3 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-linux-amd64",
-            "downloads": 11121
+            "downloads": 11804
           },
           {
             "filename": "hysteria-linux-amd64-avx",
             "size": 21274786,
             "size_formatted": "20.3 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-linux-amd64-avx",
-            "downloads": 301
+            "downloads": 309
           },
           {
             "filename": "hysteria-linux-arm",
             "size": 19726498,
             "size_formatted": "18.8 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-linux-arm",
-            "downloads": 401
+            "downloads": 424
           },
           {
             "filename": "hysteria-linux-arm64",
             "size": 19595426,
             "size_formatted": "18.7 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-linux-arm64",
-            "downloads": 3003
+            "downloads": 3190
           },
           {
             "filename": "hysteria-linux-armv5",
             "size": 19792034,
             "size_formatted": "18.9 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-linux-armv5",
-            "downloads": 35
+            "downloads": 36
           },
           {
             "filename": "hysteria-linux-loong64",
@@ -1810,7 +1810,7 @@
             "size": 22544577,
             "size_formatted": "21.5 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-linux-mipsle",
-            "downloads": 146
+            "downloads": 156
           },
           {
             "filename": "hysteria-linux-mipsle-sf",
@@ -1831,35 +1831,35 @@
             "size": 21561506,
             "size_formatted": "20.6 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-linux-s390x",
-            "downloads": 21
+            "downloads": 22
           },
           {
             "filename": "hysteria-windows-386.exe",
             "size": 20577792,
             "size_formatted": "19.6 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-windows-386.exe",
-            "downloads": 144
+            "downloads": 151
           },
           {
             "filename": "hysteria-windows-amd64-avx.exe",
             "size": 21800960,
             "size_formatted": "20.8 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-windows-amd64-avx.exe",
-            "downloads": 184
+            "downloads": 193
           },
           {
             "filename": "hysteria-windows-amd64.exe",
             "size": 21819904,
             "size_formatted": "20.8 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-windows-amd64.exe",
-            "downloads": 600
+            "downloads": 642
           },
           {
             "filename": "hysteria-windows-arm64.exe",
             "size": 19545088,
             "size_formatted": "18.6 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.9.1/hysteria-windows-arm64.exe",
-            "downloads": 101
+            "downloads": 107
           }
         ]
       }
@@ -1883,28 +1883,28 @@
             "size": 13133288,
             "size_formatted": "12.5 MB",
             "download_url": "https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-debian-x64.deb",
-            "downloads": 234704
+            "downloads": 234906
           },
           {
             "filename": "nekoray-4.0.1-2024-12-12-linux-x64.AppImage",
             "size": 44811456,
             "size_formatted": "42.7 MB",
             "download_url": "https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-linux-x64.AppImage",
-            "downloads": 96362
+            "downloads": 96505
           },
           {
             "filename": "nekoray-4.0.1-2024-12-12-linux64.zip",
             "size": 45641726,
             "size_formatted": "43.5 MB",
             "download_url": "https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-linux64.zip",
-            "downloads": 137854
+            "downloads": 137989
           },
           {
             "filename": "nekoray-4.0.1-2024-12-12-windows64.zip",
             "size": 41719145,
             "size_formatted": "39.8 MB",
             "download_url": "https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-windows64.zip",
-            "downloads": 1653532
+            "downloads": 1655009
           }
         ]
       }
@@ -1928,35 +1928,35 @@
             "size": 54020616,
             "size_formatted": "51.5 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-aarch64-linux.AppImage",
-            "downloads": 66
+            "downloads": 83
           },
           {
             "filename": "nekobox-5.11.15-armhf-linux.AppImage",
             "size": 47619460,
             "size_formatted": "45.4 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-armhf-linux.AppImage",
-            "downloads": 8
+            "downloads": 11
           },
           {
             "filename": "nekobox-5.11.15-i686-linux.AppImage",
             "size": 54189432,
             "size_formatted": "51.7 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-i686-linux.AppImage",
-            "downloads": 14
+            "downloads": 16
           },
           {
             "filename": "nekobox-5.11.15-linux-386.tar.gz",
             "size": 59905394,
             "size_formatted": "57.1 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-linux-386.tar.gz",
-            "downloads": 7
+            "downloads": 8
           },
           {
             "filename": "nekobox-5.11.15-linux-amd64.tar.gz",
             "size": 62152372,
             "size_formatted": "59.3 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-linux-amd64.tar.gz",
-            "downloads": 83
+            "downloads": 98
           },
           {
             "filename": "nekobox-5.11.15-linux-arm.tar.gz",
@@ -1970,63 +1970,63 @@
             "size": 59998991,
             "size_formatted": "57.2 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-linux-arm64.tar.gz",
-            "downloads": 6
+            "downloads": 7
           },
           {
             "filename": "nekobox-5.11.15-windows-arm64-installer.exe",
             "size": 45974156,
             "size_formatted": "43.8 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-windows-arm64-installer.exe",
-            "downloads": 393
+            "downloads": 452
           },
           {
             "filename": "nekobox-5.11.15-windows-arm64.zip",
             "size": 45777124,
             "size_formatted": "43.7 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-windows-arm64.zip",
-            "downloads": 683
+            "downloads": 709
           },
           {
             "filename": "nekobox-5.11.15-windows32-installer.exe",
             "size": 38964813,
             "size_formatted": "37.2 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-windows32-installer.exe",
-            "downloads": 629
+            "downloads": 662
           },
           {
             "filename": "nekobox-5.11.15-windows32.zip",
             "size": 38686890,
             "size_formatted": "36.9 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-windows32.zip",
-            "downloads": 11
+            "downloads": 14
           },
           {
             "filename": "nekobox-5.11.15-windows64-installer.exe",
             "size": 49604384,
             "size_formatted": "47.3 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-windows64-installer.exe",
-            "downloads": 1384
+            "downloads": 1479
           },
           {
             "filename": "nekobox-5.11.15-windows64.zip",
             "size": 49320988,
             "size_formatted": "47.0 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-windows64.zip",
-            "downloads": 312
+            "downloads": 371
           },
           {
             "filename": "nekobox-5.11.15-x86_64-linux.AppImage",
             "size": 56175096,
             "size_formatted": "53.6 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-5.11.15-x86_64-linux.AppImage",
-            "downloads": 50
+            "downloads": 57
           },
           {
             "filename": "nekobox-unified-source-5.11.15.tar.xz",
             "size": 11401836,
             "size_formatted": "10.9 MB",
             "download_url": "https://github.com/qr243vbi/nekobox/releases/download/5.11.15/nekobox-unified-source-5.11.15.tar.xz",
-            "downloads": 193
+            "downloads": 231
           },
           {
             "filename": "nekobox-unified-source-5.11.15.tar.xz.sha256sum",
@@ -2064,14 +2064,14 @@
             "size": 26207176,
             "size_formatted": "25.0 MB",
             "download_url": "https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.3.5-nightly/shadowsocks-5.3.5-nightly.apk",
-            "downloads": 23834
+            "downloads": 23901
           },
           {
             "filename": "shadowsocks-tv-5.3.5-nightly.apk",
             "size": 15435752,
             "size_formatted": "14.7 MB",
             "download_url": "https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.3.5-nightly/shadowsocks-tv-5.3.5-nightly.apk",
-            "downloads": 3634
+            "downloads": 3645
           }
         ]
       }
@@ -2095,196 +2095,196 @@
             "size": 18170747,
             "size_formatted": "17.3 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-android-arm64-v8a.zip",
-            "downloads": 3693
+            "downloads": 3716
           },
           {
             "filename": "v2ray-dragonfly-64.zip",
             "size": 18380944,
             "size_formatted": "17.5 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-dragonfly-64.zip",
-            "downloads": 2094
+            "downloads": 2100
           },
           {
             "filename": "v2ray-extra.zip",
             "size": 296846,
             "size_formatted": "289.9 KB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-extra.zip",
-            "downloads": 490
+            "downloads": 491
           },
           {
             "filename": "v2ray-freebsd-32.zip",
             "size": 17779673,
             "size_formatted": "17.0 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-freebsd-32.zip",
-            "downloads": 1257
+            "downloads": 1260
           },
           {
             "filename": "v2ray-freebsd-64.zip",
             "size": 18647973,
             "size_formatted": "17.8 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-freebsd-64.zip",
-            "downloads": 1225
+            "downloads": 1227
           },
           {
             "filename": "v2ray-freebsd-arm32-v6.zip",
             "size": 17722500,
             "size_formatted": "16.9 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-freebsd-arm32-v6.zip",
-            "downloads": 1021
+            "downloads": 1024
           },
           {
             "filename": "v2ray-freebsd-arm32-v7a.zip",
             "size": 17701477,
             "size_formatted": "16.9 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-freebsd-arm32-v7a.zip",
-            "downloads": 962
+            "downloads": 969
           },
           {
             "filename": "v2ray-freebsd-arm64-v8a.zip",
             "size": 17259861,
             "size_formatted": "16.5 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-freebsd-arm64-v8a.zip",
-            "downloads": 1127
+            "downloads": 1129
           },
           {
             "filename": "v2ray-linux-32.zip",
             "size": 17849101,
             "size_formatted": "17.0 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-32.zip",
-            "downloads": 1229
+            "downloads": 1231
           },
           {
             "filename": "v2ray-linux-64-pie.zip",
             "size": 19702423,
             "size_formatted": "18.8 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-64-pie.zip",
-            "downloads": 1280
+            "downloads": 1286
           },
           {
             "filename": "v2ray-linux-64.zip",
             "size": 18815765,
             "size_formatted": "17.9 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-64.zip",
-            "downloads": 144029
+            "downloads": 144682
           },
           {
             "filename": "v2ray-linux-arm32-v5.zip",
             "size": 17784783,
             "size_formatted": "17.0 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-arm32-v5.zip",
-            "downloads": 973
+            "downloads": 977
           },
           {
             "filename": "v2ray-linux-arm32-v6.zip",
             "size": 17779104,
             "size_formatted": "17.0 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-arm32-v6.zip",
-            "downloads": 977
+            "downloads": 981
           },
           {
             "filename": "v2ray-linux-arm32-v7a.zip",
             "size": 17757097,
             "size_formatted": "16.9 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-arm32-v7a.zip",
-            "downloads": 1255
+            "downloads": 1262
           },
           {
             "filename": "v2ray-linux-arm64-v8a-pie-prerelease.zip",
             "size": 17742129,
             "size_formatted": "16.9 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-arm64-v8a-pie-prerelease.zip",
-            "downloads": 2591
+            "downloads": 2599
           },
           {
             "filename": "v2ray-linux-arm64-v8a-pie.zip",
             "size": 18301857,
             "size_formatted": "17.5 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-arm64-v8a-pie.zip",
-            "downloads": 1043
+            "downloads": 1045
           },
           {
             "filename": "v2ray-linux-arm64-v8a.zip",
             "size": 17420456,
             "size_formatted": "16.6 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-arm64-v8a.zip",
-            "downloads": 2630
+            "downloads": 2655
           },
           {
             "filename": "v2ray-linux-loong64.zip",
             "size": 17876619,
             "size_formatted": "17.0 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-loong64.zip",
-            "downloads": 988
+            "downloads": 989
           },
           {
             "filename": "v2ray-linux-mips32.zip",
             "size": 17145788,
             "size_formatted": "16.4 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-mips32.zip",
-            "downloads": 982
+            "downloads": 985
           },
           {
             "filename": "v2ray-linux-mips32le.zip",
             "size": 17035443,
             "size_formatted": "16.2 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-mips32le.zip",
-            "downloads": 1064
+            "downloads": 1065
           },
           {
             "filename": "v2ray-linux-mips64.zip",
             "size": 16866740,
             "size_formatted": "16.1 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-mips64.zip",
-            "downloads": 1051
+            "downloads": 1052
           },
           {
             "filename": "v2ray-linux-mips64le.zip",
             "size": 16748635,
             "size_formatted": "16.0 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-mips64le.zip",
-            "downloads": 1067
+            "downloads": 1072
           },
           {
             "filename": "v2ray-linux-riscv64.zip",
             "size": 17740793,
             "size_formatted": "16.9 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-linux-riscv64.zip",
-            "downloads": 1166
+            "downloads": 1175
           },
           {
             "filename": "v2ray-macos-64.zip",
             "size": 19014576,
             "size_formatted": "18.1 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-macos-64.zip",
-            "downloads": 2441
+            "downloads": 2456
           },
           {
             "filename": "v2ray-macos-arm64-v8a.zip",
             "size": 17907050,
             "size_formatted": "17.1 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-macos-arm64-v8a.zip",
-            "downloads": 1530
+            "downloads": 1541
           },
           {
             "filename": "v2ray-openbsd-32.zip",
             "size": 17703095,
             "size_formatted": "16.9 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-openbsd-32.zip",
-            "downloads": 1085
+            "downloads": 1087
           },
           {
             "filename": "v2ray-openbsd-64.zip",
             "size": 18568053,
             "size_formatted": "17.7 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-openbsd-64.zip",
-            "downloads": 1106
+            "downloads": 1107
           },
           {
             "filename": "v2ray-openbsd-arm32-v6.zip",
             "size": 17650542,
             "size_formatted": "16.8 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-openbsd-arm32-v6.zip",
-            "downloads": 1088
+            "downloads": 1091
           },
           {
             "filename": "v2ray-openbsd-arm32-v7a.zip",
@@ -2298,28 +2298,28 @@
             "size": 17189939,
             "size_formatted": "16.4 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-openbsd-arm64-v8a.zip",
-            "downloads": 1081
+            "downloads": 1089
           },
           {
             "filename": "v2ray-windows-32.zip",
             "size": 18256322,
             "size_formatted": "17.4 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-windows-32.zip",
-            "downloads": 2191
+            "downloads": 2206
           },
           {
             "filename": "v2ray-windows-64.zip",
             "size": 18868614,
             "size_formatted": "18.0 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-windows-64.zip",
-            "downloads": 16608
+            "downloads": 16699
           },
           {
             "filename": "v2ray-windows-arm64-v8a.zip",
             "size": 17300930,
             "size_formatted": "16.5 MB",
             "download_url": "https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-windows-arm64-v8a.zip",
-            "downloads": 1745
+            "downloads": 1752
           }
         ]
       }
@@ -2343,224 +2343,224 @@
             "size": 20991909,
             "size_formatted": "20.0 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-android-amd64.zip",
-            "downloads": 6265
+            "downloads": 6341
           },
           {
             "filename": "Xray-android-arm64-v8a.zip",
             "size": 19883196,
             "size_formatted": "19.0 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-android-arm64-v8a.zip",
-            "downloads": 11169
+            "downloads": 11267
           },
           {
             "filename": "Xray-freebsd-32.zip",
             "size": 19636201,
             "size_formatted": "18.7 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-32.zip",
-            "downloads": 1792
+            "downloads": 1845
           },
           {
             "filename": "Xray-freebsd-64.zip",
             "size": 20415461,
             "size_formatted": "19.5 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-64.zip",
-            "downloads": 54879
+            "downloads": 55148
           },
           {
             "filename": "Xray-freebsd-arm32-v7a.zip",
             "size": 19557384,
             "size_formatted": "18.7 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-arm32-v7a.zip",
-            "downloads": 1682
+            "downloads": 1725
           },
           {
             "filename": "Xray-freebsd-arm64-v8a.zip",
             "size": 19082741,
             "size_formatted": "18.2 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-arm64-v8a.zip",
-            "downloads": 1542
+            "downloads": 1586
           },
           {
             "filename": "Xray-linux-32.zip",
             "size": 20267274,
             "size_formatted": "19.3 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-32.zip",
-            "downloads": 2148
+            "downloads": 2212
           },
           {
             "filename": "Xray-linux-64.zip",
             "size": 21136402,
             "size_formatted": "20.2 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-64.zip",
-            "downloads": 603035
+            "downloads": 606110
           },
           {
             "filename": "Xray-linux-arm32-v5.zip",
             "size": 20230102,
             "size_formatted": "19.3 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm32-v5.zip",
-            "downloads": 2555
+            "downloads": 2605
           },
           {
             "filename": "Xray-linux-arm32-v6.zip",
             "size": 20221247,
             "size_formatted": "19.3 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm32-v6.zip",
-            "downloads": 1568
+            "downloads": 1617
           },
           {
             "filename": "Xray-linux-arm32-v7a.zip",
             "size": 20201341,
             "size_formatted": "19.3 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm32-v7a.zip",
-            "downloads": 3956
+            "downloads": 4018
           },
           {
             "filename": "Xray-linux-arm64-v8a.zip",
             "size": 19716427,
             "size_formatted": "18.8 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm64-v8a.zip",
-            "downloads": 47614
+            "downloads": 47995
           },
           {
             "filename": "Xray-linux-loong64.zip",
             "size": 20282863,
             "size_formatted": "19.3 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-loong64.zip",
-            "downloads": 1490
+            "downloads": 1540
           },
           {
             "filename": "Xray-linux-mips32.zip",
             "size": 28603716,
             "size_formatted": "27.3 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips32.zip",
-            "downloads": 2150
+            "downloads": 2198
           },
           {
             "filename": "Xray-linux-mips32le.zip",
             "size": 28436454,
             "size_formatted": "27.1 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips32le.zip",
-            "downloads": 13732
+            "downloads": 13825
           },
           {
             "filename": "Xray-linux-mips64.zip",
             "size": 19149355,
             "size_formatted": "18.3 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips64.zip",
-            "downloads": 1543
+            "downloads": 1597
           },
           {
             "filename": "Xray-linux-mips64le.zip",
             "size": 19059516,
             "size_formatted": "18.2 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips64le.zip",
-            "downloads": 1533
+            "downloads": 1577
           },
           {
             "filename": "Xray-linux-ppc64.zip",
             "size": 19746199,
             "size_formatted": "18.8 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-ppc64.zip",
-            "downloads": 1439
+            "downloads": 1489
           },
           {
             "filename": "Xray-linux-ppc64le.zip",
             "size": 19725091,
             "size_formatted": "18.8 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-ppc64le.zip",
-            "downloads": 1439
+            "downloads": 1481
           },
           {
             "filename": "Xray-linux-riscv64.zip",
             "size": 20199421,
             "size_formatted": "19.3 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-riscv64.zip",
-            "downloads": 1584
+            "downloads": 1622
           },
           {
             "filename": "Xray-linux-s390x.zip",
             "size": 20699974,
             "size_formatted": "19.7 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-s390x.zip",
-            "downloads": 1517
+            "downloads": 1564
           },
           {
             "filename": "Xray-macos-64.zip",
             "size": 20755142,
             "size_formatted": "19.8 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-macos-64.zip",
-            "downloads": 20861
+            "downloads": 20916
           },
           {
             "filename": "Xray-macos-arm64-v8a.zip",
             "size": 19674387,
             "size_formatted": "18.8 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-macos-arm64-v8a.zip",
-            "downloads": 12606
+            "downloads": 12689
           },
           {
             "filename": "Xray-openbsd-32.zip",
             "size": 19611595,
             "size_formatted": "18.7 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-32.zip",
-            "downloads": 1437
+            "downloads": 1482
           },
           {
             "filename": "Xray-openbsd-64.zip",
             "size": 20389910,
             "size_formatted": "19.4 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-64.zip",
-            "downloads": 1566
+            "downloads": 1612
           },
           {
             "filename": "Xray-openbsd-arm32-v7a.zip",
             "size": 19528413,
             "size_formatted": "18.6 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-arm32-v7a.zip",
-            "downloads": 1434
+            "downloads": 1477
           },
           {
             "filename": "Xray-openbsd-arm64-v8a.zip",
             "size": 19068559,
             "size_formatted": "18.2 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-arm64-v8a.zip",
-            "downloads": 1412
+            "downloads": 1460
           },
           {
             "filename": "Xray-win7-32.zip",
             "size": 20471928,
             "size_formatted": "19.5 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-win7-32.zip",
-            "downloads": 1774
+            "downloads": 1820
           },
           {
             "filename": "Xray-win7-64.zip",
             "size": 20912410,
             "size_formatted": "19.9 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-win7-64.zip",
-            "downloads": 2839
+            "downloads": 2901
           },
           {
             "filename": "Xray-windows-32.zip",
             "size": 20473037,
             "size_formatted": "19.5 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-windows-32.zip",
-            "downloads": 6419
+            "downloads": 6478
           },
           {
             "filename": "Xray-windows-64.zip",
             "size": 20913304,
             "size_formatted": "19.9 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-windows-64.zip",
-            "downloads": 191974
+            "downloads": 192753
           },
           {
             "filename": "Xray-windows-arm64-v8a.zip",
             "size": 19316452,
             "size_formatted": "18.4 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-windows-arm64-v8a.zip",
-            "downloads": 3052
+            "downloads": 3095
           }
         ]
       }
@@ -2584,98 +2584,98 @@
             "size": 11601888,
             "size_formatted": "11.1 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/slipnet-darwin-amd64",
-            "downloads": 35729
+            "downloads": 35919
           },
           {
             "filename": "slipnet-darwin-arm64",
             "size": 10049874,
             "size_formatted": "9.6 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/slipnet-darwin-arm64",
-            "downloads": 9411
+            "downloads": 9460
           },
           {
             "filename": "slipnet-linux-amd64",
             "size": 2967336,
             "size_formatted": "2.8 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/slipnet-linux-amd64",
-            "downloads": 2852
+            "downloads": 2868
           },
           {
             "filename": "slipnet-linux-arm64",
             "size": 2531900,
             "size_formatted": "2.4 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/slipnet-linux-arm64",
-            "downloads": 1495
+            "downloads": 1500
           },
           {
             "filename": "slipnet-linux-armv7",
             "size": 2486784,
             "size_formatted": "2.4 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/slipnet-linux-armv7",
-            "downloads": 1541
+            "downloads": 1544
           },
           {
             "filename": "SlipNet-v2.5.3-full-release-arm64-v8a.apk",
             "size": 26881515,
             "size_formatted": "25.6 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/SlipNet-v2.5.3-full-release-arm64-v8a.apk",
-            "downloads": 62871
+            "downloads": 63135
           },
           {
             "filename": "SlipNet-v2.5.3-full-release-armeabi-v7a.apk",
             "size": 26045047,
             "size_formatted": "24.8 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/SlipNet-v2.5.3-full-release-armeabi-v7a.apk",
-            "downloads": 9418
+            "downloads": 9470
           },
           {
             "filename": "SlipNet-v2.5.3-full-release-universal.apk",
             "size": 57255162,
             "size_formatted": "54.6 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/SlipNet-v2.5.3-full-release-universal.apk",
-            "downloads": 50205
+            "downloads": 50491
           },
           {
             "filename": "SlipNet-v2.5.3-full-release-x86_64.apk",
             "size": 14650014,
             "size_formatted": "14.0 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/SlipNet-v2.5.3-full-release-x86_64.apk",
-            "downloads": 6779
+            "downloads": 6805
           },
           {
             "filename": "SlipNet-v2.5.3-lite-release-arm64-v8a.apk",
             "size": 11165567,
             "size_formatted": "10.6 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/SlipNet-v2.5.3-lite-release-arm64-v8a.apk",
-            "downloads": 9332
+            "downloads": 9428
           },
           {
             "filename": "SlipNet-v2.5.3-lite-release-armeabi-v7a.apk",
             "size": 11023029,
             "size_formatted": "10.5 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/SlipNet-v2.5.3-lite-release-armeabi-v7a.apk",
-            "downloads": 2443
+            "downloads": 2460
           },
           {
             "filename": "SlipNet-v2.5.3-lite-release-universal.apk",
             "size": 23625876,
             "size_formatted": "22.5 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/SlipNet-v2.5.3-lite-release-universal.apk",
-            "downloads": 10344
+            "downloads": 10400
           },
           {
             "filename": "SlipNet-v2.5.3-lite-release-x86_64.apk",
             "size": 11745090,
             "size_formatted": "11.2 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/SlipNet-v2.5.3-lite-release-x86_64.apk",
-            "downloads": 5134
+            "downloads": 5155
           },
           {
             "filename": "slipnet-windows-amd64.exe",
             "size": 11692032,
             "size_formatted": "11.2 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.3/slipnet-windows-amd64.exe",
-            "downloads": 16250
+            "downloads": 16288
           }
         ]
       }
@@ -2699,14 +2699,14 @@
             "size": 57707994,
             "size_formatted": "55.0 MB",
             "download_url": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.4/Happ.apk",
-            "downloads": 286979
+            "downloads": 299106
           },
           {
             "filename": "Happ_beta.apk",
             "size": 57707994,
             "size_formatted": "55.0 MB",
             "download_url": "https://github.com/Happ-proxy/happ-android/releases/download/3.20.4/Happ_beta.apk",
-            "downloads": 35587
+            "downloads": 36909
           }
         ]
       }
@@ -2730,14 +2730,14 @@
             "size": 22345826,
             "size_formatted": "21.3 MB",
             "download_url": "https://github.com/xchacha20-poly1305/husi/releases/download/v1.0.2/husi-1.0.2-arm64-v8a.apk",
-            "downloads": 6616
+            "downloads": 6643
           },
           {
             "filename": "husi-1.0.2-armeabi-v7a.apk",
             "size": 22319052,
             "size_formatted": "21.3 MB",
             "download_url": "https://github.com/xchacha20-poly1305/husi/releases/download/v1.0.2/husi-1.0.2-armeabi-v7a.apk",
-            "downloads": 547
+            "downloads": 548
           },
           {
             "filename": "husi-1.0.2-x86.apk",
@@ -2775,7 +2775,7 @@
             "size": 11094874,
             "size_formatted": "10.6 MB",
             "download_url": "https://github.com/Hidden-Node/MasterDnsVPN-AndroidClient/releases/download/v1.2.3/masterdnsvpn-HN-1.2.3-arm64-v8a-release.apk",
-            "downloads": 954
+            "downloads": 987
           },
           {
             "filename": "masterdnsvpn-HN-1.2.3-armeabi-v7a-release.apk",
@@ -2789,7 +2789,7 @@
             "size": 38944714,
             "size_formatted": "37.1 MB",
             "download_url": "https://github.com/Hidden-Node/MasterDnsVPN-AndroidClient/releases/download/v1.2.3/masterdnsvpn-HN-1.2.3-universal-release.apk",
-            "downloads": 667
+            "downloads": 668
           },
           {
             "filename": "masterdnsvpn-HN-1.2.3-x86-release.apk",
