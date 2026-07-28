@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:48:20Z",
+  "generated_at": "2026-07-28T19:13:56Z",
   "total_clients": 21,
   "successful": 21,
   "failed": 0,
@@ -23,7 +23,7 @@
             "size": 28651696,
             "size_formatted": "27.3 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6-fdroid_arm64-v8a.apk",
-            "downloads": 147626
+            "downloads": 147638
           },
           {
             "filename": "v2rayNG_2.2.6-fdroid_armeabi-v7a.apk",
@@ -51,7 +51,7 @@
             "size": 28651812,
             "size_formatted": "27.3 MB",
             "download_url": "https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_arm64-v8a.apk",
-            "downloads": 200582
+            "downloads": 200606
           },
           {
             "filename": "v2rayNG_2.2.6_armeabi-v7a.apk",
@@ -131,7 +131,7 @@
             "size": 166372844,
             "size_formatted": "158.7 MB",
             "download_url": "https://github.com/2dust/v2rayN/releases/download/7.23.4/v2rayN-windows-64.zip",
-            "downloads": 153370
+            "downloads": 153373
           },
           {
             "filename": "v2rayN-windows-86-desktop.zip",
@@ -253,7 +253,7 @@
             "size": 36486310,
             "size_formatted": "34.8 MB",
             "download_url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe",
-            "downloads": 946824
+            "downloads": 946825
           },
           {
             "filename": "Hiddify-Windows-x64.msix",
@@ -284,7 +284,7 @@
             "size": 73342686,
             "size_formatted": "69.9 MB",
             "download_url": "https://github.com/hiddify/HiddifyNG/releases/download/v6.0.4/HiddifyNG.apk",
-            "downloads": 387777
+            "downloads": 387779
           },
           {
             "filename": "HiddifyNG_arm64-v8a.apk",
@@ -336,7 +336,7 @@
             "size": 67288300,
             "size_formatted": "64.2 MB",
             "download_url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v17-%281405-4-12%29/MahsaNG_17_arm64-v8a.apk",
-            "downloads": 8083
+            "downloads": 8085
           },
           {
             "filename": "MahsaNG_17_armeabi-v7a.apk",
@@ -388,7 +388,7 @@
             "size": 15252519,
             "size_formatted": "14.5 MB",
             "download_url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk",
-            "downloads": 477285
+            "downloads": 477297
           },
           {
             "filename": "NekoBox-1.4.2-armeabi-v7a.apk",
@@ -523,21 +523,21 @@
             "size": 43961066,
             "size_formatted": "41.9 MB",
             "download_url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.32/cmfa-2.11.32-meta-arm64-v8a-release.apk",
-            "downloads": 51732
+            "downloads": 51756
           },
           {
             "filename": "cmfa-2.11.32-meta-armeabi-v7a-release.apk",
             "size": 44175923,
             "size_formatted": "42.1 MB",
             "download_url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.32/cmfa-2.11.32-meta-armeabi-v7a-release.apk",
-            "downloads": 4788
+            "downloads": 4789
           },
           {
             "filename": "cmfa-2.11.32-meta-universal-release.apk",
             "size": 105002381,
             "size_formatted": "100.1 MB",
             "download_url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.32/cmfa-2.11.32-meta-universal-release.apk",
-            "downloads": 16104
+            "downloads": 16107
           },
           {
             "filename": "cmfa-2.11.32-meta-x86-release.apk",
@@ -551,7 +551,7 @@
             "size": 45717838,
             "size_formatted": "43.6 MB",
             "download_url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.32/cmfa-2.11.32-meta-x86_64-release.apk",
-            "downloads": 2669
+            "downloads": 2670
           }
         ]
       }
@@ -575,7 +575,7 @@
             "size": 28241366,
             "size_formatted": "26.9 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.14/SFA-1.13.14-arm64-v8a.apk",
-            "downloads": 18835
+            "downloads": 18844
           },
           {
             "filename": "SFA-1.13.14-armeabi-v7a.apk",
@@ -701,7 +701,7 @@
             "size": 18065279,
             "size_formatted": "17.2 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.14/sing-box-1.13.14-android-arm64.tar.gz",
-            "downloads": 6378
+            "downloads": 6380
           },
           {
             "filename": "sing-box-1.13.14-darwin-amd64-legacy-macos-10.13.tar.gz",
@@ -771,7 +771,7 @@
             "size": 23832905,
             "size_formatted": "22.7 MB",
             "download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.13.14/sing-box-1.13.14-linux-amd64.tar.gz",
-            "downloads": 176423
+            "downloads": 176428
           },
           {
             "filename": "sing-box-1.13.14-linux-arm64-glibc.tar.gz",
@@ -1670,196 +1670,196 @@
             "size": 2569,
             "size_formatted": "2.5 KB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hashes.txt",
-            "downloads": 2821
+            "downloads": 2844
           },
           {
             "filename": "hysteria-android-386",
             "size": 20599696,
             "size_formatted": "19.6 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-android-386",
-            "downloads": 164
+            "downloads": 174
           },
           {
             "filename": "hysteria-android-amd64",
             "size": 21064552,
             "size_formatted": "20.1 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-android-amd64",
-            "downloads": 222
+            "downloads": 232
           },
           {
             "filename": "hysteria-android-arm64",
             "size": 19405360,
             "size_formatted": "18.5 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-android-arm64",
-            "downloads": 1508
+            "downloads": 1542
           },
           {
             "filename": "hysteria-android-armv7",
             "size": 20216788,
             "size_formatted": "19.3 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-android-armv7",
-            "downloads": 172
+            "downloads": 185
           },
           {
             "filename": "hysteria-darwin-amd64",
             "size": 21013840,
             "size_formatted": "20.0 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-darwin-amd64",
-            "downloads": 300
+            "downloads": 309
           },
           {
             "filename": "hysteria-darwin-amd64-avx",
             "size": 20997456,
             "size_formatted": "20.0 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-darwin-amd64-avx",
-            "downloads": 83
+            "downloads": 90
           },
           {
             "filename": "hysteria-darwin-arm64",
             "size": 19567458,
             "size_formatted": "18.7 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-darwin-arm64",
-            "downloads": 1080
+            "downloads": 1106
           },
           {
             "filename": "hysteria-freebsd-386",
             "size": 18952364,
             "size_formatted": "18.1 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-freebsd-386",
-            "downloads": 50
+            "downloads": 57
           },
           {
             "filename": "hysteria-freebsd-amd64",
             "size": 20234412,
             "size_formatted": "19.3 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-freebsd-amd64",
-            "downloads": 83
+            "downloads": 91
           },
           {
             "filename": "hysteria-freebsd-amd64-avx",
             "size": 20218028,
             "size_formatted": "19.3 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-freebsd-amd64-avx",
-            "downloads": 45
+            "downloads": 50
           },
           {
             "filename": "hysteria-freebsd-arm",
             "size": 18874540,
             "size_formatted": "18.0 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-freebsd-arm",
-            "downloads": 48
+            "downloads": 54
           },
           {
             "filename": "hysteria-freebsd-arm64",
             "size": 18809004,
             "size_formatted": "17.9 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-freebsd-arm64",
-            "downloads": 53
+            "downloads": 59
           },
           {
             "filename": "hysteria-linux-386",
             "size": 19767458,
             "size_formatted": "18.9 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-linux-386",
-            "downloads": 85
+            "downloads": 92
           },
           {
             "filename": "hysteria-linux-amd64",
             "size": 20918434,
             "size_formatted": "19.9 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-linux-amd64",
-            "downloads": 43721
+            "downloads": 44332
           },
           {
             "filename": "hysteria-linux-amd64-avx",
             "size": 20902050,
             "size_formatted": "19.9 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-linux-amd64-avx",
-            "downloads": 722
+            "downloads": 729
           },
           {
             "filename": "hysteria-linux-arm",
             "size": 19595426,
             "size_formatted": "18.7 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-linux-arm",
-            "downloads": 1601
+            "downloads": 1631
           },
           {
             "filename": "hysteria-linux-arm64",
             "size": 19398818,
             "size_formatted": "18.5 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-linux-arm64",
-            "downloads": 8776
+            "downloads": 8922
           },
           {
             "filename": "hysteria-linux-armv5",
             "size": 19595426,
             "size_formatted": "18.7 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-linux-armv5",
-            "downloads": 113
+            "downloads": 120
           },
           {
             "filename": "hysteria-linux-loong64",
             "size": 20578466,
             "size_formatted": "19.6 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-linux-loong64",
-            "downloads": 46
+            "downloads": 52
           },
           {
             "filename": "hysteria-linux-mipsle",
             "size": 22347969,
             "size_formatted": "21.3 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-linux-mipsle",
-            "downloads": 453
+            "downloads": 470
           },
           {
             "filename": "hysteria-linux-mipsle-sf",
             "size": 22347969,
             "size_formatted": "21.3 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-linux-mipsle-sf",
-            "downloads": 110
+            "downloads": 117
           },
           {
             "filename": "hysteria-linux-riscv64",
             "size": 18546850,
             "size_formatted": "17.7 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-linux-riscv64",
-            "downloads": 52
+            "downloads": 58
           },
           {
             "filename": "hysteria-linux-s390x",
             "size": 21495970,
             "size_formatted": "20.5 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-linux-s390x",
-            "downloads": 54
+            "downloads": 60
           },
           {
             "filename": "hysteria-windows-386.exe",
             "size": 20408832,
             "size_formatted": "19.5 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-windows-386.exe",
-            "downloads": 307
+            "downloads": 314
           },
           {
             "filename": "hysteria-windows-amd64-avx.exe",
             "size": 21454336,
             "size_formatted": "20.5 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-windows-amd64-avx.exe",
-            "downloads": 371
+            "downloads": 377
           },
           {
             "filename": "hysteria-windows-amd64.exe",
             "size": 21472256,
             "size_formatted": "20.5 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-windows-amd64.exe",
-            "downloads": 2303
+            "downloads": 2331
           },
           {
             "filename": "hysteria-windows-arm64.exe",
             "size": 19398144,
             "size_formatted": "18.5 MB",
             "download_url": "https://github.com/apernet/hysteria/releases/download/app/v2.10.0/hysteria-windows-arm64.exe",
-            "downloads": 198
+            "downloads": 204
           }
         ]
       }
@@ -2064,7 +2064,7 @@
             "size": 26207176,
             "size_formatted": "25.0 MB",
             "download_url": "https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.3.5-nightly/shadowsocks-5.3.5-nightly.apk",
-            "downloads": 39147
+            "downloads": 39148
           },
           {
             "filename": "shadowsocks-tv-5.3.5-nightly.apk",
@@ -2392,7 +2392,7 @@
             "size": 21136402,
             "size_formatted": "20.2 MB",
             "download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-64.zip",
-            "downloads": 1420058
+            "downloads": 1420059
           },
           {
             "filename": "Xray-linux-arm32-v5.zip",
@@ -2584,7 +2584,7 @@
             "size": 26920639,
             "size_formatted": "25.7 MB",
             "download_url": "https://github.com/anonvector/SlipNet/releases/download/v2.5.5/SlipNet-v2.5.5-full-release-arm64-v8a.apk",
-            "downloads": 29694
+            "downloads": 29698
           },
           {
             "filename": "SlipNet-v2.5.5-full-release-armeabi-v7a.apk",
@@ -2657,14 +2657,14 @@
             "size": 61716951,
             "size_formatted": "58.9 MB",
             "download_url": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.3/Happ.apk",
-            "downloads": 549466
+            "downloads": 549471
           },
           {
             "filename": "Happ_beta.apk",
             "size": 61716951,
             "size_formatted": "58.9 MB",
             "download_url": "https://github.com/Happ-proxy/happ-android/releases/download/3.26.3/Happ_beta.apk",
-            "downloads": 69041
+            "downloads": 69042
           }
         ]
       }
@@ -2688,7 +2688,7 @@
             "size": 28852004,
             "size_formatted": "27.5 MB",
             "download_url": "https://github.com/xchacha20-poly1305/husi/releases/download/v1.4.0-alpha.1/husi-1.4.0-alpha.1-arm64-v8a.apk",
-            "downloads": 941
+            "downloads": 951
           },
           {
             "filename": "husi-1.4.0-alpha.1-armeabi-v7a.apk",
@@ -2733,7 +2733,7 @@
             "size": 10009695,
             "size_formatted": "9.5 MB",
             "download_url": "https://github.com/sartoopjj/thefeed/releases/download/v0.34.0/thefeed-android-v0.34.0-arm64-v8a.apk",
-            "downloads": 4715
+            "downloads": 4716
           },
           {
             "filename": "thefeed-android-v0.34.0-armeabi-v7a.apk",
